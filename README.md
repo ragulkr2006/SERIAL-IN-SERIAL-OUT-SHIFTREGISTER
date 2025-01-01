@@ -24,10 +24,7 @@ The synchronous nature of the flip-flops ensures that the shifting of data occur
 Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and an output (Q). The D input represents the data to be loaded into the flip-flop, while the CLK input is connected to the common clock signal. The output (Q) of each flip-flop is connected to the D input of the next flip-flop, forming a cascade.
 
 **Procedure**
-
 ![image](https://github.com/user-attachments/assets/3dcd6c68-0050-4dc5-990f-ade2dbecf9d0)
-
-
 Developed by: RAGUL K R 
 
 RegisterNumber:24900660
