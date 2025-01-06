@@ -1,16 +1,19 @@
+## NAME : RAGUL K R
+## REG NO :24900660
+## EXP NO 06:IMPLEMENTATION OF SERIAL IN SERIAL OUT SHIFTREGISTER
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
-**AIM:**
+## AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:**
+## SOFTWARE REQUIRED:
 
 Quartus prime
 
-**THEORY**
+## THEORY:
 
-**SISO shift Register**
+## SISO shift Register:
 
 A Serial-In Serial-Out shift register is a sequential logic circuit that allows data to be shifted in and out one bit at a time in a serial manner. It consists of a cascade of flip-flops connected in series, forming a chain. The input data is applied to the first flip-flop in the chain, and as the clock pulses, the data propagates through the flip-flops, ultimately appearing at the output.
 
@@ -25,19 +28,16 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **Procedure**
 ![image](https://github.com/user-attachments/assets/3dcd6c68-0050-4dc5-990f-ade2dbecf9d0)
-Developed by: RAGUL K R 
-
-RegisterNumber:24900660
 
 
-**RTL LOGIC FOR SISO Shift Register**
+## RTL LOGIC FOR SISO Shift Register:
 
 ![Screenshot 2025-01-01 140805](https://github.com/user-attachments/assets/da1fe106-8d38-4617-a34b-79d444220066)
 
 
-**TIMING DIGRAMS FOR SISO Shift Register**
+## TIMING DIGRAMS FOR SISO Shift Register:
 ![Screenshot 2025-01-01 140817](https://github.com/user-attachments/assets/161d9c01-39f8-478a-a764-f2b4a94376aa)
 
 
-**RESULTS**
+## RESULTS:
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
