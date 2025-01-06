@@ -45,4 +45,4 @@ Initialize the shift register to a known state (e.g., all zeros). 2.Input a bit 
 
 
 ## RESULTS:
-SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
+Thus,the implementation of serial in serial out shiftregister is tested and verified 
