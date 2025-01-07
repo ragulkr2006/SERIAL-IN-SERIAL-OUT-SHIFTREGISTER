@@ -41,7 +41,8 @@ Initialize the shift register to a known state (e.g., all zeros). 2.Input a bit 
 
 
 ## TIMING DIGRAMS FOR SISO Shift Register:
-![Screenshot 2025-01-01 140817](https://github.com/user-attachments/assets/161d9c01-39f8-478a-a764-f2b4a94376aa)
+![WhatsApp Image 2025-01-07 at 08 57 51_7a6dcd24](https://github.com/user-attachments/assets/1aa8b4b5-26c6-4300-a4ac-e2729b78699c)
+
 
 
 ## RESULTS:
